@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="ClassSuite" duration-ms="18138" started-at="2018-03-01T09:25:16Z" finished-at="2018-03-01T09:25:34Z">
+    <groups>
+    </groups>
+    <test name="ClassTest" duration-ms="18138" started-at="2018-03-01T09:25:16Z" finished-at="2018-03-01T09:25:34Z">
+      <class name="sample.testng.SampleC">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:sample.testng.SampleC@2d6a9952]" name="openBrowser" is-config="true" duration-ms="10477" started-at="2018-03-01T14:55:16Z" finished-at="2018-03-01T14:55:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="test()[pri:0, instance:sample.testng.SampleC@2d6a9952]" name="test" duration-ms="4415" started-at="2018-03-01T14:55:27Z" finished-at="2018-03-01T14:55:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:sample.testng.SampleC@2d6a9952]" name="closeBrowser" is-config="true" duration-ms="540" started-at="2018-03-01T14:55:31Z" finished-at="2018-03-01T14:55:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- sample.testng.SampleC -->
+      <class name="sample.testng.SampleA">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:sample.testng.SampleA@6f79caec]" name="openBrowser" is-config="true" duration-ms="10507" started-at="2018-03-01T14:55:16Z" finished-at="2018-03-01T14:55:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="test()[pri:0, instance:sample.testng.SampleA@6f79caec]" name="test" duration-ms="3624" started-at="2018-03-01T14:55:27Z" finished-at="2018-03-01T14:55:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:sample.testng.SampleA@6f79caec]" name="closeBrowser" is-config="true" duration-ms="1223" started-at="2018-03-01T14:55:30Z" finished-at="2018-03-01T14:55:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- sample.testng.SampleA -->
+      <class name="sample.testng.SampleB">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:sample.testng.SampleB@22a71081]" name="openBrowser" is-config="true" duration-ms="10788" started-at="2018-03-01T14:55:16Z" finished-at="2018-03-01T14:55:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="test()[pri:0, instance:sample.testng.SampleB@22a71081]" name="test" duration-ms="6992" started-at="2018-03-01T14:55:27Z" finished-at="2018-03-01T14:55:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:sample.testng.SampleB@22a71081]" name="closeBrowser" is-config="true" duration-ms="340" started-at="2018-03-01T14:55:34Z" finished-at="2018-03-01T14:55:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- sample.testng.SampleB -->
+    </test> <!-- ClassTest -->
+  </suite> <!-- ClassSuite -->
+</testng-results>

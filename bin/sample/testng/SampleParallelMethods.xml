@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="ClassSuite">
+	<test name="ClassTest">
+		<classes>
+			<class name="sample.testng.SampleParallelMethods"/>
+		</classes>
+	</test>
+</suite>
